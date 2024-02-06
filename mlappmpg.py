@@ -17,8 +17,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 # In[16]:
 
 
-import io
-get_ipython().run_line_magic('cd', '"C:\\Users\\srini\\OneDrive\\Desktop\\MPG"')
+
 
 
 # In[17]:
